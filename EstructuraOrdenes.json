@@ -1,0 +1,17 @@
+{
+    "pedido":[
+        {
+            "OrderID": 1234,
+            "Address": "Sarmiento 488, Ciudad de Parana",
+            "Status": "En Camino",
+            "Articulos": [
+                {
+                    "name":"Producto C",
+                    "Quantity": 5,
+                    "Dangerous": true
+                }
+            ]
+
+        }
+]
+}
